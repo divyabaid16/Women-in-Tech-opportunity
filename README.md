@@ -7,3 +7,8 @@
 - Google Women Techmaker (1st and 2nd Year)
 - SheIntuit by Intune
 - Women who code Mentorship
+
+### For second year in Engineering:
+- American Express Makeathon
+- Google Step Intern
+- Microsoft Codess
