@@ -17,3 +17,10 @@
 - Adobe CoDiva
 - LinkdedIn Wintathon
 - Visa Code your way
+
+### For the entire duration
+- DevelipHer - Twitter
+- Google GodeJan IO
+- Google Summer of Code
+- Outreachy
+- Rails Girl Summer of Code
