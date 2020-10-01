@@ -12,3 +12,8 @@
 - American Express Makeathon
 - Google Step Intern
 - Microsoft Codess
+
+### For third year in Engineering:
+- Adobe CoDiva
+- LinkdedIn Wintathon
+- Visa Code your way
