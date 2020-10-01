@@ -22,5 +22,5 @@
 - DevelipHer - Twitter
 - Google GodeJan IO
 - Google Summer of Code
-- Outreachy
+- Outreachy (Can't do after GSoC)
 - Rails Girl Summer of Code
