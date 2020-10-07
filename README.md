@@ -20,7 +20,7 @@
 
 ### For the entire duration
 - DevelopHer - Twitter
-- Google GodeJam I/O
+- Google CodeJam I/O
 - Google Summer of Code
 - Outreachy (Can't do after GSoC)
 - Rails Girl Summer of Code
