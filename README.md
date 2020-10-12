@@ -19,8 +19,8 @@
 - Visa Code your way
 
 ### For the entire duration
-- DevelipHer - Twitter
-- Google GodeJan IO
+- DevelopHer - Twitter
+- Google CodeJam I/O
 - Google Summer of Code
 - Outreachy (Can't do after GSoC)
 - Rails Girl Summer of Code
